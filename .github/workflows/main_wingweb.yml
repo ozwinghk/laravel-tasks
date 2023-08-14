@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'wingweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C443104243BB42F4AEA0D1A9C11D7DCD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_788ECA118F494A87BF25EDCB5E3EC94C }}
           package: .
